@@ -33,14 +33,6 @@ Trace wallet fund flows, detect Sybil clusters, and monitor high-volume activity
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
-## Activity
-
-![Followers](https://img.shields.io/github/followers/Deji-Techh?style=flat-square)
-![Stars](https://img.shields.io/github/stars/Deji-Techh?style=flat-square)
-![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=repos&query=public_repos&url=https://api.github.com/users/Deji-Techh)
-
-*(Live counts, straight from the GitHub API — the old stats cards were removed because the shared stats widget serves stale/zeroed data.)*
-
 ## Contact
 
 - **X:** [@hayodejiii](https://x.com/hayodejiii)
