@@ -14,13 +14,12 @@ Trace wallet fund flows, detect Sybil clusters, and monitor high-volume activity
 
 | Project | What it is |
 |---|---|
-| [fundtracer-desktop](https://github.com/Deji-Techh/fundtracer-desktop) | Native Tauri desktop client — offline investigation rooms, CEX tracing, Sybil visualization |
-| [fundtracer-admin](https://github.com/Deji-Techh/fundtracer-admin) | Admin back-office — metrics, feature flags, revenue, rewards |
+| [fundtracer-by-dt](https://github.com/Deji-Techh/fundtracer-by-dt) | Multi-chain blockchain forensics platform (Sybil detection, wallet tracing). Live at fundtracer.xyz |
 | [StealthPay](https://github.com/Deji-Techh/StealthPay) | Private USDC payments on Linea via stealth addresses (ERC-5564/6538) |
-| [solana-security-bounty](https://github.com/Deji-Techh/solana-security-bounty) | 5 real-world Solana vulnerabilities with secure implementations + live demos |
-| [matchproof](https://github.com/Deji-Techh/matchproof) | TxLINE-powered World Cup data verification console |
-| [Techtribe](https://github.com/Deji-Techh/Techtribe) | Developer platform — blog, courses, community (Next.js, Supabase) |
-| [PayPluse](https://github.com/Deji-Techh/PayPluse) | Conversational fintech + Telegram banking bot |
+| [tasksui](https://github.com/Deji-Techh/tasksui) | Sui-native Web3 agent marketplace |
+| [linescope](https://github.com/Deji-Techh/linescope) | TxLINE World Cup odds intelligence dashboard |
+| [matchproof](https://github.com/Deji-Techh/matchproof) | Evidence-first World Cup data integrity console — live monitoring, deterministic agents, replay, verifiable receipts |
+| [multihopper](https://github.com/Deji-Techh/multihopper) | Solana agentic-flow security audit harness |
 
 ## Stack
 
